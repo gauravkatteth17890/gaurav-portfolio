@@ -91,6 +91,16 @@ export const resumeData = {
   ],
   certifications: [
     {
+      title: "Kaizen and Lean Management Training",
+      issuer: "QX Global Group - Mission Kaizen Initiative",
+      date: "Feb 2026"
+    },
+    {
+      title: "Mission Kaizen Certificate (Macro Automation)",
+      issuer: "QX Global Group - 83% TAT Reduction Achievement",
+      date: "Feb 2026"
+    },
+    {
       title: "Data Analytics Job Simulation",
       issuer: "Deloitte via Forage – Data Analysis & Forensic Technology",
       date: "Jan 2026"
