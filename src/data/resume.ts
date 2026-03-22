@@ -3,7 +3,7 @@ export const resumeData = {
     name: "Gaurav Singh Katteth",
     initials: "GSK",
     title: "Senior Accounts Payable & P2P Professional",
-    summary: "Results-driven Accounts Payable and Procure-to-Pay (P2P) professional with 7+ years of experience in end-to-end financial operations, vendor management, and process optimization. Proven ability to lead cross-functional teams, reduce turnaround time, and maintain 98%+ SLA compliance. Proficient in SAP, ERP systems, Tableau and advanced Excel with expertise in US and UK taxation procedures and data analytics.",
+    summary: "Results-driven Accounts Payable & Procure-to-Pay (P2P) professional with 7+ years of experience in end-to-end financial operations, vendor management, and process optimisation. Proven track record of maintaining 98%+ SLA compliance, leading cross-functional teams, and driving measurable efficiency gains through automation and Kaizen-led continuous improvement. Proficient in SAP, Tableau, Power BI, and Advanced Excel Macros; certified in Kaizen & Lean Management and Data Analytics.",
     location: "Ghaziabad, Uttar Pradesh, India",
     email: "gaurav.katteth178@gmail.com",
     phone: "+91-8586802274",
@@ -16,12 +16,10 @@ export const resumeData = {
       role: "Senior Accounts Officer – Accounts Payable (Procure-to-Pay)",
       dates: "Dec 2022 – Present",
       bullets: [
-        "Led end-to-end P2P operations for multiple clients including invoice processing, vendor management, and payment execution, maintaining 98%+ service levels consistently.",
-        "Supervised and mentored AP analyst team, delegating tasks and conducting quality assurance reviews to reduce processing errors and improve team performance.",
-        "Implemented streamlined invoice workflow procedures that reduced turnaround time (TAT), improving operational throughput across the team.",
-        "Managed a vendor master database of 500+ suppliers, overseeing onboarding, approvals, and external communications to ensure data integrity.",
-        "Executed monthly close activities including accrual entries, account reconciliations, and financial report preparation; maintained SOPs for knowledge continuity.",
-        "Evaluated process controls monthly to identify gaps and implement corrective measures; delivered monthly performance dashboards to clients."
+        "Led end-to-end P2P operations for multiple clients — invoice processing, vendor management, and payment execution — consistently maintaining 98%+ SLA compliance.",
+        "Supervised and mentored AP analyst team; conducted QA reviews to reduce errors; managed 500+ supplier vendor master database ensuring complete data integrity.",
+        "Executed monthly close activities (accruals, reconciliations, financial reports); maintained SOPs; delivered Tableau & Power BI performance dashboards and closed control gaps monthly.",
+        "Mission Kaizen — KFA988: Designed macro-based template for neglected queue reports, cutting TAT by 83% and saving 1 hr 15 min every month; validated by Kaizen Committee."
       ],
       metrics: ["98%+ SLA", "500+ Suppliers", "TAT Reduction"]
     },
@@ -31,12 +29,10 @@ export const resumeData = {
       role: "Process Developer – Accounts Payable",
       dates: "Apr 2019 – Dec 2022",
       bullets: [
-        "Processed 200+ invoices weekly (PO and Non-PO) with 99% accuracy on SAP and SRM systems, ensuring timely payments and regulatory compliance.",
-        "Utilized DAT tool to draft payment proposals and identify duplicate payments, preventing financial discrepancies and safeguarding company assets.",
-        "Processed utility and ACR invoices via OCR technology, improving processing speed by 30% and reducing manual data entry errors.",
-        "Generated weekly KPIs and performance metrics reports, providing actionable data insights to management for continuous improvement decisions.",
-        "Reconciled critical vendor accounts and managed high-priority mailboxes, resolving all queries within a 24-hour SLA consistently.",
-        "Led transition of PO-based invoice processing and Vendor Management optimization, improving workflow efficiency by 25%."
+        "Processed 200+ invoices weekly (PO & Non-PO) with 99% accuracy on SAP & SRM, ensuring timely payments and full regulatory compliance.",
+        "Utilised DAT tool to draft payment proposals and flag duplicate payments, safeguarding assets and preventing financial discrepancies.",
+        "Deployed OCR technology for utility invoice processing, achieving a 30% reduction in processing time and significantly reducing manual data-entry errors.",
+        "Generated weekly KPI & performance metric reports; reconciled critical vendor accounts within a 24-hour SLA; led PO invoice transition improving workflow efficiency by 25%."
       ],
       metrics: ["200+ Invoices/Week", "99% Accuracy", "30% Speed Boost", "25% Efficiency Gain"]
     }
@@ -44,36 +40,34 @@ export const resumeData = {
   achievements: [
     {
       title: "SLA Excellence",
-      context: "Maintained 98%+ SLA compliance rate across all client engagements through proactive stakeholder management.",
+      context: "Sustained 98%+ SLA compliance across all client engagements via proactive stakeholder management and real-time performance tracking.",
       type: "metrics",
       icon: "Trophy"
     },
     {
-      title: "Efficiency Gains",
-      context: "Transitioned PO-based invoice processing, improving overall workflow efficiency by 25% and reducing manual effort.",
+      title: "Kaizen Innovation (KFA988)",
+      context: "Macro-based queue report automation cut TAT by 83% and saved 1 hr 15 min per month — independently validated by the Kaizen Committee.",
       type: "wins",
       icon: "Zap"
     },
     {
-      title: "Speed Improvement",
-      context: "Deployed OCR-based processing for utility invoices, achieving a 30% reduction in processing time.",
+      title: "Efficiency Gains",
+      context: "PO invoice transition boosted workflow efficiency by 25%; OCR deployment reduced utility invoice processing time by 30%.",
       type: "metrics",
       icon: "Clock"
     },
     {
-      title: "Process Controls",
-      context: "Developed AP controls and procedures that enhanced accuracy of transaction recording and strengthened payment governance.",
+      title: "Process Governance",
+      context: "Designed AP controls & SOPs that strengthened payment governance and enhanced transaction accuracy across multiple global client accounts.",
       type: "ShieldCheck",
       icon: "ShieldCheck"
     }
   ],
   skills: {
-    "Financial": ["AP", "P2P", "Invoice Processing"],
-    "Systems": ["SAP", "ERP", "SoftCO", "Brainware", "OCR"],
-    "Process": ["SLA & KPI Management"],
-    "Analytics": ["Tableau", "Data Analysis", "Excel"],
-    "Compliance": ["US & UK Taxation"],
-    "Leadership": ["Team Management", "Vendor Relations"]
+    "Financial": ["Accounts Payable (AP) & P2P", "Invoice Processing & Reconciliation", "Vendor Master Data Management"],
+    "Systems": ["SAP, SRM, SoftCO, Brainware", "Tableau & Power BI", "Advanced Excel & Macros"],
+    "Process": ["Kaizen & Lean Management", "SLA & KPI Management", "US & UK Taxation Compliance"],
+    "Leadership": ["Team Leadership & Mentoring", "Month-End Close & Accruals", "Process Controls & SOPs"]
   },
   education: [
     {
@@ -91,28 +85,33 @@ export const resumeData = {
   ],
   certifications: [
     {
-      title: "Kaizen and Lean Management Training",
-      issuer: "QX Global Group - Mission Kaizen Initiative",
+      title: "Data Visualization with Power BI — Top Performer",
+      issuer: "Coding Ninjas · NSDC Certified",
+      date: "Mar 2026"
+    },
+    {
+      title: "Kaizen & Lean Management Certificate",
+      issuer: "QX Global Group · Mission Kaizen, Code: KFA988",
       date: "Feb 2026"
     },
     {
-      title: "Mission Kaizen Certificate (Macro Automation)",
-      issuer: "QX Global Group - 83% TAT Reduction Achievement",
+      title: "Kaizen Training Certificate",
+      issuer: "QX Global Group · Dept. of Quality & Business Excellence",
       date: "Feb 2026"
+    },
+    {
+      title: "Data Visualization with Tableau — Top Performer",
+      issuer: "Coding Ninjas · Certificate of Excellence",
+      date: "Jan 2026"
     },
     {
       title: "Data Analytics Job Simulation",
-      issuer: "Deloitte via Forage – Data Analysis & Forensic Technology",
+      issuer: "Deloitte via Forage · Data Analysis & Forensic Technology",
       date: "Jan 2026"
     },
     {
-      title: "Data Visualization with Tableau",
-      issuer: "Coding Ninjas – Certificate of Excellence, Top Performer",
-      date: "Jan 2026"
-    },
-    {
-      title: "Introduction to Analytics & Excel",
-      issuer: "Coding Ninjas – Certificate of Excellence, Top Performer",
+      title: "Introduction to Analytics & Excel — Top Performer",
+      issuer: "Coding Ninjas · Certificate of Excellence",
       date: "Jan 2026"
     }
   ],
